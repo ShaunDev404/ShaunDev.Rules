@@ -1,3 +1,5 @@
+# ShaunDev.Rules
+
 ShaunDev.Rules supplies a basic set of Code Analysis rulessets and StyleCop (v 4.7.49) settings.
 
 The purpose of this package is to make developing easy on developers.
