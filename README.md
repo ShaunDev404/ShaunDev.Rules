@@ -9,4 +9,4 @@ For this Quick configuration, disable Code Analysis, XML documentation, etc.
 Using this Quick configuration development is easy, and building is quick.
 Switch to Debug configuration sets all CodeAnalysis rules to Warnings.
 Switch to Release configuration sets all CodeAnalysis rules Errors.
-So before releaseing your code build in Release mode.
+So before releaseing your code build in Release mode..
